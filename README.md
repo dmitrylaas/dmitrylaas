@@ -1,5 +1,5 @@
 <h1 align="left">Dmitry Laas</h1>
-<p align="left">Web & Android develop <br><br><a href="https://t.me/dmitrylaas">Telegram</a></p>
+<p align="left">Web & Android develop. JDM one ❤ <br><br><a href="https://t.me/dmitrylaas">Telegram</a></p>
 
 👉 Developer [Evolution Browser](https://github.com/dmitrylaas/Evolution-Browser) 
 
