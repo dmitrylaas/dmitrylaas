@@ -1,5 +1,5 @@
 <h1 align="left">Dmitry Laas</h1>
-<p align="left">Web & Android develop. JDM one ❤ | Samsung Galaxy A50 | Infinity OS v3 <br><br><a href="https://t.me/dmitrylaas">Telegram</a></p>
+<p align="left">Web & Android develop. JDM one ❤ | Samsung Galaxy A50 | RR 8.6.4 <br><br><a href="https://t.me/dmitrylaas">Telegram</a></p>
 
 👉 Developer [Evolution Browser](https://github.com/dmitrylaas/Evolution-Browser) 
 
