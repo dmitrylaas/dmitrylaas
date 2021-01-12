@@ -3,7 +3,7 @@
 
 👉 Developer [Evolution Browser](https://github.com/dmitrylaas/Evolution-Browser) 
 
-Light, simple, fast browser written in Java! New versions in [Telegram channel](https://t.me/evolution_browser)!
+Light, simple, fast browser written in Java! New versions in [Telegram channel](https://t.me/evobrowser)!
 
 👉 Developer [DevReader](https://github.com/devreader/app-android) 
 
