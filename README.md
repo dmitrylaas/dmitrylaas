@@ -5,6 +5,6 @@
 
 Light, simple, fast browser written in Java! New versions in [Telegram channel](https://t.me/evobrowser)!
 
-👉 Developer [DevReader](https://github.com/devreader/app-android) 
+👉 Developer [DevReader](https://github.com/devreader/app-flutter) 
 
-The mobile app for Android™
+The mobile app for iOS™
