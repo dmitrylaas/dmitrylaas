@@ -1,10 +1,10 @@
-<h1 align="left">Dmitry Laas</h1>
-<p align="left">Flutter & Android developer. JDM one ❤ | iPhone 11 | black | 64GB | iOS 14.4 <br><br><a href="https://t.me/dmitrylaas">Telegram</a></p>
+<h1 align="center">Hi 👋, I'm Dmitry</h1>
+<h3 align="center">I'm 16, I'm a simple person, as well as a self-taught programmer, and that's it</h3>
 
-👉 Developer [Evo Browser](https://github.com/dmitrylaas/Evolution-Browser) 
-
-Light, simple, fast browser written in Java! New versions in [Telegram channel](https://t.me/evobrowser)!
-
-👉 Developer [DevReader](https://github.com/devreader/app-flutter) 
-
-The mobile app for iOS™
+### Languages and Tools:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>
+</p>
