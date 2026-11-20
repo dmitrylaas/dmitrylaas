@@ -1,7 +1,7 @@
 ### Hi, I'm Dmitry 👋
 
 Mechanical engineering student and hobbyist developer based in Saint Petersburg, Russia.  
-Interested in how things work — from mechanical systems and vehicle dynamics to software and microcontrollers.
+Interested in how things work - from mechanical systems and vehicle dynamics to software and microcontrollers.
 
 #### ⚙️ Engineering & Development
 - **Programming & Web:** Python, HTML/CSS, basic Android & web development
