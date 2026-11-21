@@ -17,7 +17,7 @@ Interested in how things work - from mechanical systems and vehicle dynamics to 
 #### 🏁 Beyond Code & CAD
 - **Motorsport & Driving Dynamics:** Keen on performance driving theory, rally, and time attack racing
 - **Photography:** Street, urban architecture, and landscape shots
-- **Music:** Drum & Bass, Liquid Funk, Jungle, Breakcore, Piano & Classical
+- **Music:** Drum & Bass, Liquid Funk, Jungle, Breakcore, Jazz, Piano & Classical
 - **Sports:** Former professional swimmer
 
 ---
