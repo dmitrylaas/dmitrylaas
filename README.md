@@ -7,7 +7,7 @@ Interested in how things work - from mechanical systems and vehicle dynamics to 
 - **Programming & Web:** Python, HTML/CSS, basic Android & web development
 - **Engineering & Simulation:** Studying and practicing CAD modeling and mathematical computation in MATLAB
 - **Hardware & Embedded:** Exploring microcontrollers and prototyping with Arduino
-- **Tools:** VS Code, Git, KDE Plasma
+- **Tools:** VS Code, Git, KDE Plasma.
 
 #### 💻 Workstations & Gear
 - **Desktop (Windows 11 IoT LTSC):** AMD Ryzen 7 5700X · Radeon RX 6650 XT · 32 GB DDR4 · 34" 3440x1440 (21:9)
